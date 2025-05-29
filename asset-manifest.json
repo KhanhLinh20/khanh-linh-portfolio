@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KhanhLinh20/khanh-linh-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/KhanhLinh20/khanh-linh-portfolio/static/js/main.18810bce.js",
-    "static/js/453.1407b060.chunk.js": "/KhanhLinh20/khanh-linh-portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/logo.svg": "/KhanhLinh20/khanh-linh-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/KhanhLinh20/khanh-linh-portfolio/index.html",
-    "main.f855e6bc.css.map": "/KhanhLinh20/khanh-linh-portfolio/static/css/main.f855e6bc.css.map",
-    "main.18810bce.js.map": "/KhanhLinh20/khanh-linh-portfolio/static/js/main.18810bce.js.map",
-    "453.1407b060.chunk.js.map": "/KhanhLinh20/khanh-linh-portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/khanh-linh-portfolio/static/css/main.cbd39d73.css",
+    "main.js": "/khanh-linh-portfolio/static/js/main.b68d0dbd.js",
+    "static/js/453.1407b060.chunk.js": "/khanh-linh-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/logo.svg": "/khanh-linh-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/khanh-linh-portfolio/index.html",
+    "main.cbd39d73.css.map": "/khanh-linh-portfolio/static/css/main.cbd39d73.css.map",
+    "main.b68d0dbd.js.map": "/khanh-linh-portfolio/static/js/main.b68d0dbd.js.map",
+    "453.1407b060.chunk.js.map": "/khanh-linh-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.18810bce.js"
+    "static/css/main.cbd39d73.css",
+    "static/js/main.b68d0dbd.js"
   ]
 }
